@@ -3,6 +3,7 @@
 			<ol class="breadcrumb">
 				<li><a href="#"><span class="glyphicon glyphicon-home"></span></a></li>
 				<li class="active"><?php print $showcategories; ?></li>
+				<li class="active"><?php print "Git Handling here now Yeh...."; ?></li>
 			</ol>
 		</div><!--/.row-->
 		
